@@ -1,0 +1,14 @@
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.csproj.AssemblyReference.cache
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.AssemblyInfoInputs.cache
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.AssemblyInfo.cs
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.csproj.CoreCompileInputs.cache
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\bin\Debug\netcoreapp3.1\distributed_project_2.exe
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\bin\Debug\netcoreapp3.1\distributed_project_2.deps.json
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\bin\Debug\netcoreapp3.1\distributed_project_2.runtimeconfig.json
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\bin\Debug\netcoreapp3.1\distributed_project_2.runtimeconfig.dev.json
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\bin\Debug\netcoreapp3.1\distributed_project_2.dll
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\bin\Debug\netcoreapp3.1\distributed_project_2.pdb
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.dll
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.pdb
+D:\Coding\C# projects\distributed_project_2\distributed_project_2\obj\Debug\netcoreapp3.1\distributed_project_2.genruntimeconfig.cache
